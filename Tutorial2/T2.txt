@@ -1,0 +1,11 @@
+3.
+A raw type is a generic class or interface that is used without specifying any type parameters. It is unsafe because it allows mixing of incompatible types and can lead to type errors at runtime. The raw type lacks the type safety benefits of using generics, and thus can lead to unexpected behavior and bugs in the code.
+
+4.
+Erasure is the process of replacing type parameters in generic types with their bounds or Object if no bound is specified, and removing all generic type information during compilation. In other words, type parameters in generic classes and methods are replaced with the most specific non-generic type possible, which is usually Object. This means that during runtime, the type parameters are not retained and cannot be accessed or manipulated.
+
+9.
+Object type, this is known as type erasure.
+
+10.
+Number and Comparable respectively which are the upper bound of the type parameter.
