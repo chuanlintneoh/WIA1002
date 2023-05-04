@@ -1,0 +1,24 @@
+1. The stack method that returns an element from the stack without removing it is peek.
+
+2. 
+	two	
+	one	
+s1	s2	s3
+
+3. 
+a) push(1), pop(), push(2), pop(), push(3), pop()
+b) push(1), push(2), pop(), push(3), pop(), pop()
+c) push(1), push(2), push(3), pop(), pop(), pop()
+d) push(1), pop(), push(2), push(3), pop(), pop()
+
+4. 
+a) a b c * +
+b) a b * c d / -
+c) a b c * d + e / +
+
+5. 
+a) (a + b)*c
+b) a*(b + c)
+
+6. Which of the following is an application of stack?
+All of the above (finding factorial, tower of Hanoi, infix to postfix)
