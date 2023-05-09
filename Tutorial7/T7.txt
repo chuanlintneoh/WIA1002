@@ -1,0 +1,27 @@
+1. Hospital emergency room queue, air traffic queue, security check queue, call centre queue
+
+2. Queue follows the First-in, First-out principle, the first element that is added will be removed first.
+Stack follows the Last-in, First-out principle, the last element that is added will be removed first.
+
+3. 
+(a) 1 4 5 2 3 
+(b) No, it is impossible to queue the number 2 behind of 4 since it comes before 4 in the for loop.
+(c) false false false false false, true false false false false, true true false false false, true true true false false, true true true true false, true true true true true
+
+4.
+X = {5,7,9,2,4}
+Y = 3
+(a) X.front() = 5
+(b)
+X = {7,9,2,4,10}
+Y = 5
+X.front() = 7
+(c)
+X= {9,2,4,10}
+Y = 7
+(d) X.front() = 9
+
+5. 
++clear(): void - clears all element in the queue
++contains(e: E): boolean - check if element exists in the queue
++getIndexOf(e: E): int - returns the index of the element in the queue
