@@ -1,0 +1,36 @@
+1. Queue follows First-in First-Out (FIFO) principle.
+Priority Queue is a variation of Queue that assigns a priority value to each element, priority determines the order in which are accessed and removed from the queue. Element with highest priority is accessed first.
+
+2. Emergency room queue, CPU scheduling, Dijkstra's algorithm
+
+3.
+(a)
+peek() gives us: C++
+(b)
+The queue elements: 
+C++
+Fortran
+Java
+Python
+(c)
+After poll():
+Fortran
+Python
+Java
+(d)
+After remove():
+Fortran
+Python
+(e)
+Priority Queue contains Ruby or not?: false
+(f)
+Value in array: 
+Value: Fortran
+Value: Python
+
+4.
+(a) Compare the length of string s1 and s2. The method returns -1 if s1 is shorter than s2, else 1 if s1 is longer than s2, otherwise 0.
+(b) 
+Ali
+Jason
+Muhamad
