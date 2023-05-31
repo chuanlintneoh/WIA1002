@@ -1,0 +1,3 @@
+1. It will cause a stack overflow error, because parameter 0 will recursively call the method from 0 to negative infinity. (1 is not reached at any point)
+
+2. It will cause a stack overflow error if n is a positive number, it will recursively call the method from the positive number to positive infinity. (0 is not reached at any point)
